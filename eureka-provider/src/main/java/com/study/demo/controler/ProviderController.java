@@ -23,4 +23,10 @@ public class ProviderController {
 		person.setMessage(request.getRequestURL().toString());
 		return person;
 	}
+public static Boolean isCanLinkDb = true;
+	
+	@RequestMapping(value = "/linkDb/{can}", method = RequestMethod.GET)
+	public void LinkDb(@PathVariable Boolean can){
+		isCanLinkDb = can;
+	}
 }
