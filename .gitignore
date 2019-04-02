@@ -37,3 +37,13 @@ eureka-server/.project
 eureka-server/.settings/org.eclipse.jdt.core.prefs
 eureka-server/.settings/org.eclipse.m2e.core.prefs
 eureka-server/target/classes/application.yml
+ribbon-server/.classpath
+ribbon-client2/.settings/org.eclipse.m2e.core.prefs
+ribbon-client2/.settings/org.eclipse.jdt.core.prefs
+ribbon-client2/.settings/org.eclipse.core.resources.prefs
+ribbon-client2/.project
+ribbon-client2/.classpath
+ribbon-server2/.settings/org.eclipse.core.resources.prefs
+ribbon-server2/.settings/org.eclipse.jdt.core.prefs
+ribbon-server2/.settings/org.eclipse.m2e.core.prefs
+ribbon-server2/.project

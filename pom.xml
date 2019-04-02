@@ -8,5 +8,8 @@
   	<module>eureka-provider</module>
   	<module>eureka-server</module>
   	<module>eureka-consumer</module>
+  	<module>ribbon-server2</module>
+  	<module>ribbon-server</module>
+  	<module>ribbon-client2</module>
   </modules>
 </project>
