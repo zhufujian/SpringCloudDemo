@@ -4,7 +4,10 @@ server:
 spring:
   application:
     name: eureka-consumer
- 
+
+eureka-provider:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.init.springCloud.MyRule 
 eureka:
   client:
     registry-fetch-interval-seconds: 5  
